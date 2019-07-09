@@ -1,0 +1,254 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lukejenner.github.io" resolutions="1x,2x" timestamp="1562701017404">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="497875289" ref="index"/>
+    <file name="index.css" crc="4117906121" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="convergence_edu4.mp3" crc="205384317" seo="true" mt="1556063498000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mg1-crop-u563.png" crc="224248073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u563_2x.png" crc="4175039532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg2536x429.png" crc="40956155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg2_2x.png" crc="357673479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg3591x367.png" crc="499376722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg3_2x.png" crc="3999087709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg7.png" crc="74719146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u640.png" crc="276368354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u640_2x.png" crc="4116128784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg8.png" crc="3953664888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg6488x495.png" crc="271070277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4.png" crc="429604825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg5.png" crc="4289830240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1.png" crc="291499201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1_2x.png" crc="3877668230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg2.png" crc="395265638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg3.png" crc="390423674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4326x401.png" crc="3818563786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4326x401_2x.png" crc="3872761820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg6.png" crc="4137407651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg7492x643.png" crc="284469926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg8-crop-u2388.png" crc="7697285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4-crop-u2444.png" crc="3866666279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4-crop-u2444_2x.png" crc="434877381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg1.png" crc="4229366014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg1_2x.png" crc="4221260246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg2.png" crc="3831482166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg2_2x.png" crc="4131797066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg3.png" crc="4128487928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg3_2x.png" crc="165754584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4.png" crc="475247379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4_2x.png" crc="285345451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg5429x422.png" crc="312125378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg5_2x.png" crc="15415656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg6.png" crc="4216842368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg7.png" crc="3871269707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg8.png" crc="4192930155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u2493.png" crc="224248073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u2493_2x.png" crc="4175039532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u2500.png" crc="276368354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1-crop-u2500_2x.png" crc="4116128784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg8348x390.png" crc="4168116064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg8_2x.png" crc="4114245744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg8-crop-u2549.png" crc="7697285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg2731x586.png" crc="450449969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4302x372.png" crc="3793572997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4302x372_2x.png" crc="102484220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg3605x376.png" crc="3935377774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg6504x511.png" crc="233489649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg7515x673.png" crc="4141781957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4-crop-u2521.png" crc="3866666279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg4-crop-u2521_2x.png" crc="434877381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg6443x450.png" crc="4091240302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg1455x217.png" crc="242818354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg1455x217_2x.png" crc="256359670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4524x370.png" crc="4146918731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4524x370_2x.png" crc="504387722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg8678x396.png" crc="3833598404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg7457x331.png" crc="492851867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg7457x331_2x.png" crc="233804176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg5.png" crc="12385999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4566x400.png" crc="3988457769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg4566x400_2x.png" crc="283210921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1524x581.png" crc="163489875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mg1524x581_2x.png" crc="246110926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_01.jpg" crc="226146880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_01_2x.jpg" crc="3761323056" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3892285169" seo="true" mt="1562700898082" redirect="true"/>
+</manifest>
